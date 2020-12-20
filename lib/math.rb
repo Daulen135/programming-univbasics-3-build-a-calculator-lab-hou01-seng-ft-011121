@@ -1,6 +1,7 @@
 def addition(num1, num2)
-result=
-puts (num1.to_f+ num2.to_f)
+result=(num1.to_f+ num2.to_f)
+puts result
+result
 end
 addition(5,4)
 
