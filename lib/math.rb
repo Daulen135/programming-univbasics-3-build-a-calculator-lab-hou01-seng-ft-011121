@@ -6,6 +6,7 @@ end
 addition(5,4)
 
 def subtraction(num1, num2)
+result=
 puts (num1-num2)
 end
 subtraction(5,4)
