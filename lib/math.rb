@@ -15,6 +15,7 @@ puts (num1.to_f/num2.to_f)
 end
 division(35,4)
 
+
 def multiplication(num1, num2)
 puts (num1.to_f*num2.to_f)
 end
