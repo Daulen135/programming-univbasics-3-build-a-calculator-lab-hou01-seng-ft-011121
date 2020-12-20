@@ -16,7 +16,7 @@ end
 division(5,4)
 
 def multiplication(num1, num2)
-
+puts (num1.to_f*num2.to_f)
 end
 
 def modulo(num1, num2)
