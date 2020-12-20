@@ -28,6 +28,6 @@ modulo(34,5)
 
 
 def square_root(num)
-puts(Math.sqrt(num))
+puts(Math.sqrtnum)
 end
 square_root
