@@ -13,7 +13,7 @@ subtraction(5,4)
 def division(num1,num2)
 puts (num1.to_f/num2.to_f)
 end
-division(35,4)
+division(34,5)
 
 
 def multiplication(num1, num2)
